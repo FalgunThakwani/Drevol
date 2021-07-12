@@ -178,7 +178,7 @@ FutureBuilder(future:loaduser(),builder: (context,snapshot){
           searchresultEmail.add(email);
           searchresultPrimarycontact.add(primary);
           searchresultPic.add(pic);
-          print(searchresult);
+
 
         }
       }
