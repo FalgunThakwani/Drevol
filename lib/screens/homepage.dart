@@ -179,8 +179,7 @@ FutureBuilder(future:loaduser(),builder: (context,snapshot){
           searchresultPrimarycontact.add(primary);
           searchresultPic.add(pic);
           print(searchresult);
-          // searchresult.add(city);
-          // print(searchresult);
+
         }
       }
     }
